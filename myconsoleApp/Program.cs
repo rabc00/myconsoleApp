@@ -48,7 +48,7 @@ namespace myconsoleApp
                 }
                 else 
                 {
-                    Console.WriteLine("Too Bad");
+                    Console.WriteLine("Too Bad. We have nothing to talk about");
                     Console.WriteLine("Press any key to exit");
                     Console.ReadLine();
                 }
